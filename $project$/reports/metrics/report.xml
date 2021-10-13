@@ -1,0 +1,68 @@
+<METRICS profile="Chidamber-Kemerer metrics" timestamp="ÖÜÈý, 13 10ÔÂ 2021 15:59:33 CST">
+	<METRIC category="Class" name="Coupling between objects" abbreviation="CBO">
+		<VALUE measured="Testfile" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.java" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.open" value="2.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Depth of inheritance tree" abbreviation="DIT">
+		<VALUE measured="Testfile" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller" value="2.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main" value="2.0"/>
+		<VALUE measured="com.example.assigenment1pro.java" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu" value="5.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.open" value="2.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Lack of Cohesion of Methods" abbreviation="LCOM">
+		<VALUE measured="Testfile" value="2.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main" value="2.0"/>
+		<VALUE measured="com.example.assigenment1pro.java" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu" value="3.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler" value="1.0"/>
+		<VALUE measured="com.example.assigenment1pro.open" value="2.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Number of children" abbreviation="NOC">
+		<VALUE measured="Testfile" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.java" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler" value="0.0"/>
+		<VALUE measured="com.example.assigenment1pro.open" value="0.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Response for class" abbreviation="RFC">
+		<VALUE measured="Testfile" value="10.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller" value="89.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find" value="31.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main" value="13.0"/>
+		<VALUE measured="com.example.assigenment1pro.java" value="7.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords" value="34.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu" value="15.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler" value="15.0"/>
+		<VALUE measured="com.example.assigenment1pro.open" value="16.0"/>
+	</METRIC>
+	<METRIC category="Class" name="Weighted method complexity" abbreviation="WMC">
+		<VALUE measured="Testfile" value="5.0"/>
+		<VALUE measured="com.example.assigenment1pro.Controller" value="24.0"/>
+		<VALUE measured="com.example.assigenment1pro.Find" value="7.0"/>
+		<VALUE measured="com.example.assigenment1pro.Main" value="2.0"/>
+		<VALUE measured="com.example.assigenment1pro.java" value="2.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords" value="12.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.DefaultContextMenu" value="4.0"/>
+		<VALUE measured="com.example.assigenment1pro.keywords.VisibleParagraphStyler" value="4.0"/>
+		<VALUE measured="com.example.assigenment1pro.open" value="2.0"/>
+	</METRIC>
+</METRICS>
